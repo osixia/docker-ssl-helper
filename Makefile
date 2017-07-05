@@ -1,5 +1,5 @@
 NAME = osixia/ssl-helper
-VERSION = 1.0.0
+VERSION = 0.2.0
 
 .PHONY: all build build-nocache test tag_latest release
 
