@@ -5,7 +5,7 @@
 [![](https://images.microbadger.com/badges/image/osixia/ssl-helper.svg)](http://microbadger.com/images/osixia/ssl-helper "Get your own image badge on microbadger.com")
 [hub]: https://hub.docker.com/r/osixia/ssl-helper/
 
-Latest release: 0.2.0 -  [Changelog](CHANGELOG.md) | [Docker Hub](https://hub.docker.com/r/osixia/ssl-helper/) 
+Latest release: 0.2.1 -  [Changelog](CHANGELOG.md) | [Docker Hub](https://hub.docker.com/r/osixia/ssl-helper/) 
 
 **A docker image to run ssl-helper.**
 
