@@ -1,7 +1,6 @@
 # Use osixia/alpine-light-baseimage
 # https://github.com/osixia/docker-light-baseimage
-FROM osixia/alpine-light-baseimage:0.1.5
-MAINTAINER Bertrand Gouny <bertrand.gouny@osixia.net>
+FROM osixia/alpine-light-baseimage:0.1.6
 
 # Install ssl-tools from baseimage and clean apk files
 # sources: https://github.com/osixia/docker-light-baseimage/blob/alpine/image/tool/add-service-available
